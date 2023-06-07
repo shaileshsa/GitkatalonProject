@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Aprobaciones detail verification from Dashboard bottom button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6d30149-e696-47bc-b837-013f4b325bcf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>daa645d1-c041-4700-bc63-c33c951feed3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f4e2c8af-8cfd-4fbb-add6-f205bb553b51</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fdfea876-c7d0-41ec-ae8e-28610080766f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>daa645d1-c041-4700-bc63-c33c951feed3</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>f4e2c8af-8cfd-4fbb-add6-f205bb553b51</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'321321'</defaultValue>
+      <description></description>
+      <id>fdfea876-c7d0-41ec-ae8e-28610080766f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

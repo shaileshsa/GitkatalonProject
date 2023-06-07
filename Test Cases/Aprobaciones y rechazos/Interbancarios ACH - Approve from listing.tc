@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Interbancarios ACH - Approve from listing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>239068c1-06f8-4a5c-9d95-7fac8f198c66</testCaseGuid>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>6d58f2b1-7e42-4d03-bee3-62e9fa283a69</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>b65598a8-cebc-4c62-8e29-9e1d15cf3f66</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'321321'</defaultValue>
+      <description></description>
+      <id>83e3eabe-7cec-4daf-b26c-b62db914717b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Servicios y facturas - Reject from listing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24065e37-3f95-42cd-a9c3-9a3ca738d885</testCaseGuid>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>e0eed897-821e-4c07-bc5d-76e89c2cae1e</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>c03adf14-b08f-4b23-9fb3-49876b01bf88</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'321321'</defaultValue>
+      <description></description>
+      <id>9a7cd912-62d0-4dcd-b564-752629819e50</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

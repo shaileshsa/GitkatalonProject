@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pagos a Tarjetas del Popular - Approve from Transaction details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6779a4a-c460-48cc-a1bb-3173c20b362a</testCaseGuid>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>9415cae1-378e-4d63-bd0b-e28305aafbdf</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>c4ae29c3-04a7-4b7e-aa95-5ab5135a3ac7</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'321321'</defaultValue>
+      <description></description>
+      <id>e147433b-18ec-45d9-a7ef-b92e9d6927e4</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

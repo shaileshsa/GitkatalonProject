@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Suplidores - Reject from Transaction details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c203bbc-ac6d-49b4-ac3e-b2d0149073a9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bc2839a4-d297-42f0-8e51-d054bb3834ea</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b3147bc9-e4ef-4865-9712-c0a3767c990b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b82766b3-08a2-48cf-8bbf-36bb4d193854</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>bc2839a4-d297-42f0-8e51-d054bb3834ea</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>b3147bc9-e4ef-4865-9712-c0a3767c990b</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'321321'</defaultValue>
+      <description></description>
+      <id>b82766b3-08a2-48cf-8bbf-36bb4d193854</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

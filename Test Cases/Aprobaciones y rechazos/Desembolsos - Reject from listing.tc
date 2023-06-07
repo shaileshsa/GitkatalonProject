@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Desembolsos - Reject from listing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86085557-b7b3-481b-835d-86a12c97896e</testCaseGuid>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>bf8b6449-12a5-4494-aa3b-8031ca7074b8</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>2dc6bca0-c3ad-4c30-912b-c2f62ed1e8af</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'321321'</defaultValue>
+      <description></description>
+      <id>8fb63c8f-41e4-40ec-b85c-bbf4f9bbb158</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>APPEmpresa Contactenos TestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>331ffab8-4963-41fa-8c20-c35d4654d68a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>68c5d426-a63a-4d38-b3b3-fa4ae71e7d9c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.Phone_No</defaultValue>
+      <description></description>
+      <id>68c5d426-a63a-4d38-b3b3-fa4ae71e7d9c</id>
+      <masked>false</masked>
+      <name>Phone_No</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>APP EMPRESARIAL POPULAR</description>
+   <name>APPEMP_Permisos sobre cuentas (Dashboard)</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>22f3cc6f-56d0-47e5-b3dc-3fa2939db3cd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c611ef02-6b9b-4309-b556-1424cf818df0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5b8f8a70-df97-4f62-8342-555c31784506</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ecf0bb47-efaf-49be-969a-835c677e62be</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>483de135-bbb5-4db4-aa81-f3ea50bfee22</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.company</defaultValue>
+      <description></description>
+      <id>c611ef02-6b9b-4309-b556-1424cf818df0</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.Admin_User</defaultValue>
+      <description></description>
+      <id>5b8f8a70-df97-4f62-8342-555c31784506</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.password</defaultValue>
+      <description></description>
+      <id>ecf0bb47-efaf-49be-969a-835c677e62be</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.Transaction_Company_One</defaultValue>
+      <description></description>
+      <id>483de135-bbb5-4db4-aa81-f3ea50bfee22</id>
+      <masked>false</masked>
+      <name>company</name>
+   </variable>
+</TestCaseEntity>

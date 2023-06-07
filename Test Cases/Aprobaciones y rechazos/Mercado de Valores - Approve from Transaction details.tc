@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Mercado de Valores - Approve from Transaction details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1fcce06-9616-4d12-b6a3-2364acde0fff</testCaseGuid>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>5e93cd4e-c3af-4c63-9fd3-d6619cfb616f</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>1437e41f-7999-4c9a-a547-4c98c8a4f943</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'321321'</defaultValue>
+      <description></description>
+      <id>74b490ea-2b65-41e4-bad8-0e2c3db66ca4</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

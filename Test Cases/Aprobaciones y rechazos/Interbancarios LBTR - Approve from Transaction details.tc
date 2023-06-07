@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Interbancarios LBTR - Approve from Transaction details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d4c3e15-ca75-4c08-baea-c98863898d35</testCaseGuid>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>c20dfcbe-cd47-40ad-92e5-0c2355497ee1</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>7d16fba9-74c5-454f-8f9c-4ff0977b3480</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'321321'</defaultValue>
+      <description></description>
+      <id>e6a8f42d-3aa2-4d36-88aa-6383e828bf1e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

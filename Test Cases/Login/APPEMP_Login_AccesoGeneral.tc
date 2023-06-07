@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>APP EMPRESARIAL POPULAR</description>
+   <name>APPEMP_Login_AccesoGeneral</name>
+   <tag>Login</tag>
+   <comment></comment>
+   <testCaseGuid>a2b4fafa-a09b-4ca1-a036-abf430daf2a0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5d682c10-f977-4294-ac3f-fd7aba1c0567</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>92f7bd8b-9f16-4ce6-b65a-9174caf0e2e4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fec017f4-6761-4d46-98c8-2ac3808deaf0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.company</defaultValue>
+      <description></description>
+      <id>5d682c10-f977-4294-ac3f-fd7aba1c0567</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.NonAdmin_user</defaultValue>
+      <description></description>
+      <id>92f7bd8b-9f16-4ce6-b65a-9174caf0e2e4</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.password</defaultValue>
+      <description></description>
+      <id>fec017f4-6761-4d46-98c8-2ac3808deaf0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

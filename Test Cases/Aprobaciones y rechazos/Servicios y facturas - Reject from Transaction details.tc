@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Servicios y facturas - Reject from Transaction details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>611b60b7-268d-4731-89d2-990d654910ea</testCaseGuid>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>6ecadd1f-f5d0-40ed-8f11-fb6abba4def0</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>f42fec78-f441-409a-91b8-9dbae0e256f4</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'321321'</defaultValue>
+      <description></description>
+      <id>3a00edef-e76a-4f79-afd6-6ed9a15a6993</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

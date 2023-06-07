@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>396eed4e-4492-4ab4-8710-943c112f1667</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>35612b93-f44a-4c6e-bbb8-f2477a644d3f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b2d51268-be9e-4603-9031-32c088292c05</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2bc1bf09-61db-40db-bdc5-eeea3546b162</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.company</defaultValue>
+      <description></description>
+      <id>35612b93-f44a-4c6e-bbb8-f2477a644d3f</id>
+      <masked>false</masked>
+      <name>Business</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.NonAdmin_user</defaultValue>
+      <description></description>
+      <id>b2d51268-be9e-4603-9031-32c088292c05</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.password</defaultValue>
+      <description></description>
+      <id>2bc1bf09-61db-40db-bdc5-eeea3546b162</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

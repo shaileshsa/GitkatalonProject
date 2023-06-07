@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Servicios y facturas - Approve from listing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3858dd8-f5e9-410c-bdeb-e55eabc43749</testCaseGuid>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>f43fb9dc-429d-468e-8167-4427051bc699</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>438bf64c-adfe-4535-a597-753e36a56579</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'321321'</defaultValue>
+      <description></description>
+      <id>b3f3c319-8945-4ce3-9c39-03e8e01770c2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

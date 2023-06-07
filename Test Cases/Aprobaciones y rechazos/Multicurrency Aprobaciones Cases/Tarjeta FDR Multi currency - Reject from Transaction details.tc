@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tarjeta FDR Multi currency - Reject from Transaction details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>124bd9e6-6485-4550-b873-144660f7a6b4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>09b6017c-b6c5-4af3-bd0a-8fe4c3644a6c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b5ed6feb-72d3-435e-b2b0-19d299aa7ded</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fd796fb7-7c7f-434d-bf1e-ae7307642b31</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>09b6017c-b6c5-4af3-bd0a-8fe4c3644a6c</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>b5ed6feb-72d3-435e-b2b0-19d299aa7ded</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'321321'</defaultValue>
+      <description></description>
+      <id>fd796fb7-7c7f-434d-bf1e-ae7307642b31</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

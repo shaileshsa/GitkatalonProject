@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Terceros Multi currency - Approve from Transaction details</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4dab2881-0ff7-4813-ba4d-e7b56985baa0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2cfefeb9-2433-40c3-a5f8-66aa1bae33d5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b53bb318-e940-4303-aff5-563aca6ea0dc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>00315e63-a93e-462c-9752-a2d41a2357d2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.company</defaultValue>
+      <description></description>
+      <id>2cfefeb9-2433-40c3-a5f8-66aa1bae33d5</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.Admin_User</defaultValue>
+      <description></description>
+      <id>b53bb318-e940-4303-aff5-563aca6ea0dc</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.password</defaultValue>
+      <description></description>
+      <id>00315e63-a93e-462c-9752-a2d41a2357d2</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

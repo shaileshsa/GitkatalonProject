@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>APPEMP_Estatus de transacciones - Consulta de transacciones aprobadas por mi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0d4cba8-27cf-4768-80d4-2d74b98a1c96</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6d58f2b1-7e42-4d03-bee3-62e9fa283a69</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b65598a8-cebc-4c62-8e29-9e1d15cf3f66</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>83e3eabe-7cec-4daf-b26c-b62db914717b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Maritima'</defaultValue>
+      <description></description>
+      <id>6d58f2b1-7e42-4d03-bee3-62e9fa283a69</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>'Maritima'</defaultValue>
+      <description></description>
+      <id>b65598a8-cebc-4c62-8e29-9e1d15cf3f66</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'321321'</defaultValue>
+      <description></description>
+      <id>83e3eabe-7cec-4daf-b26c-b62db914717b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

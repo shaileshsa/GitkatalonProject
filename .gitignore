@@ -1,0 +1,12 @@
+.gradle
+Reports/
+output
+build
+.classpath
+.project
+bin/
+Libs/
+.settings/
+.classpath
+.svn/
+.DS_Store

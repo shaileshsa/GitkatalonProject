@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pago de Prestamos - Reject from listing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3dc6e916-bc40-467b-889b-0014e1cd998c</testCaseGuid>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>1a6d31b6-ca62-440c-8c01-17b1a7a163dc</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>7120954e-3c36-4e62-8d74-07ef80290308</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'321321'</defaultValue>
+      <description></description>
+      <id>5bc268fb-a202-4a05-b3ae-9727ea8b5495</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

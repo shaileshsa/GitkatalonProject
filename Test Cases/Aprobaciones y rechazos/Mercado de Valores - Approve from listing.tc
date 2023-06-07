@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Mercado de Valores - Approve from listing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a464e23-287d-4bb9-a914-35e5b1212776</testCaseGuid>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>8023b025-c9d6-46d6-bc2c-06d5ac3be4e6</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>56b24996-bf12-4443-8faa-a0c46f7995f9</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'321321'</defaultValue>
+      <description></description>
+      <id>5c02284b-642e-492e-9ea1-3eb8b610f37a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

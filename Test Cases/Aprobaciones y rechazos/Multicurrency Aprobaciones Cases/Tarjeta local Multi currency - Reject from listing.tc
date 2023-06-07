@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tarjeta local Multi currency - Reject from listing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbfbc8e9-bc3f-4cbf-9631-a6a6e9eb60a4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5a946c47-78cf-4cd7-903f-a573cb44b48b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5c86eb9c-d08e-45aa-86ac-0eedcca0c52a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e069694f-6e5d-4eb8-ae86-5ad1ec73495e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>5a946c47-78cf-4cd7-903f-a573cb44b48b</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>5c86eb9c-d08e-45aa-86ac-0eedcca0c52a</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'321321'</defaultValue>
+      <description></description>
+      <id>e069694f-6e5d-4eb8-ae86-5ad1ec73495e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

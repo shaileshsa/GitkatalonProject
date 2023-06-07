@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Interbancarios LBTR - Reject from listing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f34f08d-11ae-4888-85a8-d64d969735d0</testCaseGuid>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>6a966c47-82f5-4c63-98e0-6dd56c0784c0</id>
+      <masked>false</masked>
+      <name>business</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ambasa'</defaultValue>
+      <description></description>
+      <id>6005fd0d-295a-4f11-8653-f7414f308143</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'321321'</defaultValue>
+      <description></description>
+      <id>e84d725f-dbc2-480d-a705-8d57c46cbc64</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
